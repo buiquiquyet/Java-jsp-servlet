@@ -1,0 +1,80 @@
+QUAN LI KI TUC XA
+Ten phong:100                                 
+Thang:0                                        
+               Gia           So luong          Tong             
+Gia dien       2,340.0       0.0              0.0
+Gia nuoc       81,110.0      0.0              0.0
+Gia phong      300,000.0     1.0               300000.0
+                                               Tong tien: 300000.0
+=====================================================================
+
+QUAN LI KI TUC XA
+Ten phong:100                                 
+Thang:1                                        
+               Gia           So luong          Tong             
+Gia dien       2,340.0       10.0              23400.0
+Gia nuoc       81,110.0      10.0              811100.0
+Gia phong      300,000.0     3.0               900000.0
+                                               Tong tien: 1734500.0
+=====================================================================
+
+QUAN LI KI TUC XA
+Ten phong:100                                 
+Thang:1                                        
+               Gia           So luong          Tong             
+Gia dien       2,340.0       1.0              2340.0
+Gia nuoc       81,110.0      1.0              81110.0
+Gia phong      300,000.0     1.0               300000.0
+                                               Tong tien: 383450.0
+=====================================================================
+
+QUAN LI KI TUC XA
+Ten phong:100                                 
+Thang:0                                        
+               Gia           So luong          Tong             
+Gia dien       2,340.0       0.0              0.0
+Gia nuoc       81,110.0      0.0              0.0
+Gia phong      300,000.0     0.0               0.0
+                                               Tong tien: 0.0
+=====================================================================
+
+QUAN LI KI TUC XA
+Ten phong:100                                 
+Thang:0                                        
+               Gia           So luong          Tong             
+Gia dien       2,340.0       0.0              0.0
+Gia nuoc       81,110.0      0.0              0.0
+Gia phong      300,000.0     0.0               0.0
+                                               Tong tien: 0.0
+=====================================================================
+
+QUAN LI KI TUC XA
+Ten phong:100                                 
+Thang:0                                        
+               Gia           So luong          Tong             
+Gia dien       2,340.0       0.0              0.0
+Gia nuoc       81,110.0      0.0              0.0
+Gia phong      300,000.0     0.0               0.0
+                                               Tong tien: 0.0
+=====================================================================
+
+QUAN LI KI TUC XA
+Ten phong:100                                 
+Thang:3                                        
+               Gia           So luong          Tong             
+Gia dien       2,340.0       0.0              0.0
+Gia nuoc       81,110.0      0.0              0.0
+Gia phong      300,000.0     0.0               0.0
+                                               Tong tien: 0.0
+=====================================================================
+
+QUAN LI KI TUC XA
+Ten phong:100                                 
+Thang:3                                        
+               Gia           So luong          Tong             
+Gia dien       2,340.0       10.0              23400.0
+Gia nuoc       81,110.0      5.0              405550.0
+Gia phong      300,000.0     1.0               300000.0
+                                               Tong tien: 728950.0
+=====================================================================
+

@@ -1,0 +1,704 @@
+06-Nov-2022 22:05:40.856 INFO [http-nio-8081-exec-6] org.apache.catalina.core.ApplicationContext.log Manager: init: Associated with Deployer 'Catalina:type=Deployer,host=localhost'
+06-Nov-2022 22:05:40.856 INFO [http-nio-8081-exec-6] org.apache.catalina.core.ApplicationContext.log Manager: init: Global resources are available
+06-Nov-2022 22:05:41.026 INFO [http-nio-8081-exec-8] org.apache.catalina.core.ApplicationContext.log Manager: list: Listing contexts for virtual host 'localhost'
+06-Nov-2022 22:05:41.032 INFO [http-nio-8081-exec-7] org.apache.catalina.core.ApplicationContext.log Manager: list: Listing contexts for virtual host 'localhost'
+06-Nov-2022 22:05:41.042 INFO [http-nio-8081-exec-9] org.apache.catalina.core.ApplicationContext.log Manager: install: Installing context configuration at 'file:/C:/Users/ADMIN/AppData/Local/Temp/context9105390155179136780.xml'
+06-Nov-2022 22:05:41.083 INFO [http-nio-8081-exec-10] org.apache.catalina.core.ApplicationContext.log Manager: start: Starting web application '/cuoiki1'
+06-Nov-2022 22:05:49.985 INFO [http-nio-8081-exec-5] org.apache.catalina.core.ApplicationContext.log Manager: list: Listing contexts for virtual host 'localhost'
+06-Nov-2022 22:05:49.989 INFO [http-nio-8081-exec-7] org.apache.catalina.core.ApplicationContext.log Manager: list: Listing contexts for virtual host 'localhost'
+06-Nov-2022 22:06:42.266 INFO [http-nio-8081-exec-9] org.apache.catalina.core.ApplicationContext.log Manager: list: Listing contexts for virtual host 'localhost'
+06-Nov-2022 22:06:42.271 INFO [http-nio-8081-exec-4] org.apache.catalina.core.ApplicationContext.log Manager: list: Listing contexts for virtual host 'localhost'
+06-Nov-2022 22:06:51.916 INFO [http-nio-8081-exec-7] org.apache.catalina.core.ApplicationContext.log Manager: list: Listing contexts for virtual host 'localhost'
+06-Nov-2022 22:06:51.919 INFO [http-nio-8081-exec-6] org.apache.catalina.core.ApplicationContext.log Manager: list: Listing contexts for virtual host 'localhost'
+06-Nov-2022 22:07:08.065 INFO [http-nio-8081-exec-8] org.apache.catalina.core.ApplicationContext.log Manager: list: Listing contexts for virtual host 'localhost'
+06-Nov-2022 22:07:22.445 INFO [http-nio-8081-exec-5] org.apache.catalina.core.ApplicationContext.log Manager: list: Listing contexts for virtual host 'localhost'
+06-Nov-2022 22:07:22.449 INFO [http-nio-8081-exec-4] org.apache.catalina.core.ApplicationContext.log Manager: list: Listing contexts for virtual host 'localhost'
+06-Nov-2022 22:08:03.962 INFO [http-nio-8081-exec-9] org.apache.catalina.core.ApplicationContext.log Manager: list: Listing contexts for virtual host 'localhost'
+06-Nov-2022 22:08:21.801 INFO [http-nio-8081-exec-2] org.apache.catalina.core.ApplicationContext.log Manager: list: Listing contexts for virtual host 'localhost'
+06-Nov-2022 22:09:54.505 INFO [http-nio-8081-exec-8] org.apache.catalina.core.ApplicationContext.log Manager: list: Listing contexts for virtual host 'localhost'
+06-Nov-2022 22:09:54.511 INFO [http-nio-8081-exec-5] org.apache.catalina.core.ApplicationContext.log Manager: list: Listing contexts for virtual host 'localhost'
+06-Nov-2022 22:10:26.258 INFO [http-nio-8081-exec-1] org.apache.catalina.core.ApplicationContext.log Manager: list: Listing contexts for virtual host 'localhost'
+06-Nov-2022 22:10:26.264 INFO [http-nio-8081-exec-9] org.apache.catalina.core.ApplicationContext.log Manager: list: Listing contexts for virtual host 'localhost'
+06-Nov-2022 22:10:47.750 INFO [http-nio-8081-exec-9] org.apache.catalina.core.ApplicationContext.log Manager: list: Listing contexts for virtual host 'localhost'
+06-Nov-2022 22:10:47.756 INFO [http-nio-8081-exec-2] org.apache.catalina.core.ApplicationContext.log Manager: restart: Reloading web application '/cuoiki1'
+06-Nov-2022 22:11:22.737 INFO [http-nio-8081-exec-3] org.apache.catalina.core.ApplicationContext.log Manager: list: Listing contexts for virtual host 'localhost'
+06-Nov-2022 22:11:22.745 INFO [http-nio-8081-exec-6] org.apache.catalina.core.ApplicationContext.log Manager: restart: Reloading web application '/cuoiki1'
+06-Nov-2022 22:12:30.151 INFO [http-nio-8081-exec-8] org.apache.catalina.core.ApplicationContext.log Manager: list: Listing contexts for virtual host 'localhost'
+06-Nov-2022 22:12:30.154 INFO [http-nio-8081-exec-3] org.apache.catalina.core.ApplicationContext.log Manager: list: Listing contexts for virtual host 'localhost'
+06-Nov-2022 22:12:30.168 INFO [http-nio-8081-exec-5] org.apache.catalina.core.ApplicationContext.log Manager: restart: Reloading web application '/cuoiki1'
+06-Nov-2022 22:14:45.512 INFO [http-nio-8081-exec-18] org.apache.catalina.core.ApplicationContext.log Manager: list: Listing contexts for virtual host 'localhost'
+06-Nov-2022 22:14:45.520 INFO [http-nio-8081-exec-21] org.apache.catalina.core.ApplicationContext.log Manager: restart: Reloading web application '/cuoiki1'
+06-Nov-2022 22:14:56.002 INFO [http-nio-8081-exec-4] org.apache.catalina.core.ApplicationContext.log Manager: list: Listing contexts for virtual host 'localhost'
+06-Nov-2022 22:14:56.009 INFO [http-nio-8081-exec-17] org.apache.catalina.core.ApplicationContext.log Manager: restart: Reloading web application '/cuoiki1'
+06-Nov-2022 22:15:36.803 INFO [http-nio-8081-exec-15] org.apache.catalina.core.ApplicationContext.log Manager: list: Listing contexts for virtual host 'localhost'
+06-Nov-2022 22:15:36.823 INFO [http-nio-8081-exec-21] org.apache.catalina.core.ApplicationContext.log Manager: restart: Reloading web application '/cuoiki1'
+06-Nov-2022 22:15:55.007 INFO [http-nio-8081-exec-15] org.apache.catalina.core.ApplicationContext.log Manager: list: Listing contexts for virtual host 'localhost'
+06-Nov-2022 22:15:55.014 INFO [http-nio-8081-exec-21] org.apache.catalina.core.ApplicationContext.log Manager: restart: Reloading web application '/cuoiki1'
+06-Nov-2022 22:16:28.727 INFO [http-nio-8081-exec-25] org.apache.catalina.core.ApplicationContext.log Manager: list: Listing contexts for virtual host 'localhost'
+06-Nov-2022 22:16:28.734 INFO [http-nio-8081-exec-26] org.apache.catalina.core.ApplicationContext.log Manager: restart: Reloading web application '/cuoiki1'
+06-Nov-2022 22:16:44.154 INFO [http-nio-8081-exec-27] org.apache.catalina.core.ApplicationContext.log Manager: list: Listing contexts for virtual host 'localhost'
+06-Nov-2022 22:16:44.162 INFO [http-nio-8081-exec-4] org.apache.catalina.core.ApplicationContext.log Manager: restart: Reloading web application '/cuoiki1'
+06-Nov-2022 22:17:13.951 INFO [http-nio-8081-exec-27] org.apache.catalina.core.ApplicationContext.log Manager: list: Listing contexts for virtual host 'localhost'
+06-Nov-2022 22:17:13.959 INFO [http-nio-8081-exec-26] org.apache.catalina.core.ApplicationContext.log Manager: restart: Reloading web application '/cuoiki1'
+06-Nov-2022 22:18:27.073 INFO [http-nio-8081-exec-30] org.apache.catalina.core.ApplicationContext.log Manager: list: Listing contexts for virtual host 'localhost'
+06-Nov-2022 22:18:27.082 INFO [http-nio-8081-exec-21] org.apache.catalina.core.ApplicationContext.log Manager: restart: Reloading web application '/cuoiki1'
+06-Nov-2022 22:19:14.471 INFO [http-nio-8081-exec-30] org.apache.catalina.core.ApplicationContext.log Manager: list: Listing contexts for virtual host 'localhost'
+06-Nov-2022 22:19:14.477 INFO [http-nio-8081-exec-23] org.apache.catalina.core.ApplicationContext.log Manager: restart: Reloading web application '/cuoiki1'
+06-Nov-2022 22:19:39.960 INFO [http-nio-8081-exec-27] org.apache.catalina.core.ApplicationContext.log Manager: list: Listing contexts for virtual host 'localhost'
+06-Nov-2022 22:19:39.967 INFO [http-nio-8081-exec-19] org.apache.catalina.core.ApplicationContext.log Manager: restart: Reloading web application '/cuoiki1'
+06-Nov-2022 22:23:50.328 INFO [http-nio-8081-exec-36] org.apache.catalina.core.ApplicationContext.log Manager: list: Listing contexts for virtual host 'localhost'
+06-Nov-2022 22:23:50.336 INFO [http-nio-8081-exec-19] org.apache.catalina.core.ApplicationContext.log Manager: restart: Reloading web application '/cuoiki1'
+06-Nov-2022 22:24:03.087 INFO [http-nio-8081-exec-26] org.apache.catalina.core.ApplicationContext.log Manager: list: Listing contexts for virtual host 'localhost'
+06-Nov-2022 22:24:03.098 INFO [http-nio-8081-exec-37] org.apache.catalina.core.ApplicationContext.log Manager: restart: Reloading web application '/cuoiki1'
+06-Nov-2022 22:25:30.011 INFO [http-nio-8081-exec-34] org.apache.catalina.core.ApplicationContext.log Manager: list: Listing contexts for virtual host 'localhost'
+06-Nov-2022 22:25:30.015 INFO [http-nio-8081-exec-40] org.apache.catalina.core.ApplicationContext.log Manager: list: Listing contexts for virtual host 'localhost'
+06-Nov-2022 22:28:06.196 INFO [http-nio-8081-exec-44] org.apache.catalina.core.ApplicationContext.log Manager: list: Listing contexts for virtual host 'localhost'
+06-Nov-2022 22:28:06.203 INFO [http-nio-8081-exec-34] org.apache.catalina.core.ApplicationContext.log Manager: restart: Reloading web application '/cuoiki1'
+06-Nov-2022 22:28:22.847 INFO [http-nio-8081-exec-43] org.apache.catalina.core.ApplicationContext.log Manager: list: Listing contexts for virtual host 'localhost'
+06-Nov-2022 22:28:22.857 INFO [http-nio-8081-exec-39] org.apache.catalina.core.ApplicationContext.log Manager: restart: Reloading web application '/cuoiki1'
+06-Nov-2022 22:28:24.099 INFO [http-nio-8081-exec-4] org.apache.catalina.core.ApplicationContext.log Manager: list: Listing contexts for virtual host 'localhost'
+06-Nov-2022 22:28:24.106 INFO [http-nio-8081-exec-45] org.apache.catalina.core.ApplicationContext.log Manager: restart: Reloading web application '/cuoiki1'
+06-Nov-2022 22:28:48.372 INFO [http-nio-8081-exec-41] org.apache.catalina.core.ApplicationContext.log Manager: list: Listing contexts for virtual host 'localhost'
+06-Nov-2022 22:28:48.378 INFO [http-nio-8081-exec-46] org.apache.catalina.core.ApplicationContext.log Manager: restart: Reloading web application '/cuoiki1'
+06-Nov-2022 22:29:12.165 INFO [http-nio-8081-exec-34] org.apache.catalina.core.ApplicationContext.log Manager: list: Listing contexts for virtual host 'localhost'
+06-Nov-2022 22:29:12.171 INFO [http-nio-8081-exec-41] org.apache.catalina.core.ApplicationContext.log Manager: restart: Reloading web application '/cuoiki1'
+06-Nov-2022 22:32:24.402 INFO [http-nio-8081-exec-52] org.apache.catalina.core.ApplicationContext.log Manager: list: Listing contexts for virtual host 'localhost'
+06-Nov-2022 22:32:24.410 INFO [http-nio-8081-exec-39] org.apache.catalina.core.ApplicationContext.log Manager: restart: Reloading web application '/cuoiki1'
+06-Nov-2022 22:32:50.683 INFO [http-nio-8081-exec-49] org.apache.catalina.core.ApplicationContext.log Manager: list: Listing contexts for virtual host 'localhost'
+06-Nov-2022 22:32:50.690 INFO [http-nio-8081-exec-41] org.apache.catalina.core.ApplicationContext.log Manager: restart: Reloading web application '/cuoiki1'
+06-Nov-2022 22:33:36.279 INFO [http-nio-8081-exec-50] org.apache.catalina.core.ApplicationContext.log Manager: list: Listing contexts for virtual host 'localhost'
+06-Nov-2022 22:33:36.286 INFO [http-nio-8081-exec-39] org.apache.catalina.core.ApplicationContext.log Manager: restart: Reloading web application '/cuoiki1'
+06-Nov-2022 22:34:14.910 INFO [http-nio-8081-exec-48] org.apache.catalina.core.ApplicationContext.log Manager: list: Listing contexts for virtual host 'localhost'
+06-Nov-2022 22:34:14.918 INFO [http-nio-8081-exec-53] org.apache.catalina.core.ApplicationContext.log Manager: restart: Reloading web application '/cuoiki1'
+06-Nov-2022 22:34:15.134 INFO [http-nio-8081-exec-55] org.apache.catalina.core.ApplicationContext.log Manager: list: Listing contexts for virtual host 'localhost'
+06-Nov-2022 22:34:15.140 INFO [http-nio-8081-exec-45] org.apache.catalina.core.ApplicationContext.log Manager: restart: Reloading web application '/cuoiki1'
+06-Nov-2022 22:34:30.777 INFO [http-nio-8081-exec-48] org.apache.catalina.core.ApplicationContext.log Manager: list: Listing contexts for virtual host 'localhost'
+06-Nov-2022 22:34:30.781 INFO [http-nio-8081-exec-56] org.apache.catalina.core.ApplicationContext.log Manager: list: Listing contexts for virtual host 'localhost'
+06-Nov-2022 22:34:30.796 INFO [http-nio-8081-exec-45] org.apache.catalina.core.ApplicationContext.log Manager: restart: Reloading web application '/cuoiki1'
+06-Nov-2022 22:36:02.450 INFO [http-nio-8081-exec-57] org.apache.catalina.core.ApplicationContext.log Manager: list: Listing contexts for virtual host 'localhost'
+06-Nov-2022 22:36:02.457 INFO [http-nio-8081-exec-63] org.apache.catalina.core.ApplicationContext.log Manager: restart: Reloading web application '/cuoiki1'
+06-Nov-2022 22:36:07.504 INFO [http-nio-8081-exec-57] org.apache.catalina.core.ApplicationContext.log Manager: list: Listing contexts for virtual host 'localhost'
+06-Nov-2022 22:36:07.509 INFO [http-nio-8081-exec-64] org.apache.catalina.core.ApplicationContext.log Manager: list: Listing contexts for virtual host 'localhost'
+06-Nov-2022 22:36:07.526 INFO [http-nio-8081-exec-61] org.apache.catalina.core.ApplicationContext.log Manager: restart: Reloading web application '/cuoiki1'
+06-Nov-2022 22:36:21.375 INFO [http-nio-8081-exec-60] org.apache.catalina.core.ApplicationContext.log Manager: list: Listing contexts for virtual host 'localhost'
+06-Nov-2022 22:36:48.276 INFO [http-nio-8081-exec-58] org.apache.catalina.core.ApplicationContext.log Manager: list: Listing contexts for virtual host 'localhost'
+06-Nov-2022 22:36:48.283 INFO [http-nio-8081-exec-61] org.apache.catalina.core.ApplicationContext.log Manager: restart: Reloading web application '/cuoiki1'
+06-Nov-2022 22:36:52.853 INFO [http-nio-8081-exec-68] org.apache.catalina.core.ApplicationContext.log Manager: list: Listing contexts for virtual host 'localhost'
+06-Nov-2022 22:36:52.859 INFO [http-nio-8081-exec-69] org.apache.catalina.core.ApplicationContext.log Manager: restart: Reloading web application '/cuoiki1'
+06-Nov-2022 22:36:57.175 INFO [http-nio-8081-exec-61] org.apache.catalina.core.ApplicationContext.log Manager: list: Listing contexts for virtual host 'localhost'
+06-Nov-2022 22:36:57.182 INFO [http-nio-8081-exec-54] org.apache.catalina.core.ApplicationContext.log Manager: restart: Reloading web application '/cuoiki1'
+06-Nov-2022 22:37:10.558 INFO [http-nio-8081-exec-71] org.apache.catalina.core.ApplicationContext.log Manager: list: Listing contexts for virtual host 'localhost'
+06-Nov-2022 22:37:10.563 INFO [http-nio-8081-exec-68] org.apache.catalina.core.ApplicationContext.log Manager: restart: Reloading web application '/cuoiki1'
+06-Nov-2022 22:37:22.839 INFO [http-nio-8081-exec-61] org.apache.catalina.core.ApplicationContext.log Manager: list: Listing contexts for virtual host 'localhost'
+06-Nov-2022 22:37:22.846 INFO [http-nio-8081-exec-54] org.apache.catalina.core.ApplicationContext.log Manager: restart: Reloading web application '/cuoiki1'
+06-Nov-2022 22:37:41.425 INFO [http-nio-8081-exec-69] org.apache.catalina.core.ApplicationContext.log Manager: list: Listing contexts for virtual host 'localhost'
+06-Nov-2022 22:37:54.942 INFO [http-nio-8081-exec-73] org.apache.catalina.core.ApplicationContext.log Manager: list: Listing contexts for virtual host 'localhost'
+06-Nov-2022 22:37:54.948 INFO [http-nio-8081-exec-57] org.apache.catalina.core.ApplicationContext.log Manager: restart: Reloading web application '/cuoiki1'
+06-Nov-2022 22:38:00.454 INFO [http-nio-8081-exec-61] org.apache.catalina.core.ApplicationContext.log Manager: list: Listing contexts for virtual host 'localhost'
+06-Nov-2022 22:38:00.462 INFO [http-nio-8081-exec-54] org.apache.catalina.core.ApplicationContext.log Manager: restart: Reloading web application '/cuoiki1'
+06-Nov-2022 22:38:06.308 INFO [http-nio-8081-exec-74] org.apache.catalina.core.ApplicationContext.log Manager: list: Listing contexts for virtual host 'localhost'
+06-Nov-2022 22:38:06.317 INFO [http-nio-8081-exec-73] org.apache.catalina.core.ApplicationContext.log Manager: restart: Reloading web application '/cuoiki1'
+06-Nov-2022 22:38:37.830 INFO [http-nio-8081-exec-61] org.apache.catalina.core.ApplicationContext.log Manager: list: Listing contexts for virtual host 'localhost'
+06-Nov-2022 22:38:37.838 INFO [http-nio-8081-exec-76] org.apache.catalina.core.ApplicationContext.log Manager: restart: Reloading web application '/cuoiki1'
+06-Nov-2022 22:38:49.268 INFO [http-nio-8081-exec-69] org.apache.catalina.core.ApplicationContext.log Manager: list: Listing contexts for virtual host 'localhost'
+06-Nov-2022 22:38:49.272 INFO [http-nio-8081-exec-79] org.apache.catalina.core.ApplicationContext.log Manager: list: Listing contexts for virtual host 'localhost'
+06-Nov-2022 22:38:49.289 INFO [http-nio-8081-exec-76] org.apache.catalina.core.ApplicationContext.log Manager: restart: Reloading web application '/cuoiki1'
+06-Nov-2022 22:39:05.374 INFO [http-nio-8081-exec-79] org.apache.catalina.core.ApplicationContext.log Manager: list: Listing contexts for virtual host 'localhost'
+06-Nov-2022 22:46:53.347 INFO [http-nio-8081-exec-83] org.apache.catalina.core.ApplicationContext.log Manager: list: Listing contexts for virtual host 'localhost'
+06-Nov-2022 22:46:53.356 INFO [http-nio-8081-exec-87] org.apache.catalina.core.ApplicationContext.log Manager: stop: Stopping web application '/cuoiki1'
+06-Nov-2022 22:46:53.366 INFO [http-nio-8081-exec-89] org.apache.catalina.core.ApplicationContext.log Manager: start: Starting web application '/cuoiki1'
+06-Nov-2022 22:47:17.185 INFO [http-nio-8081-exec-90] org.apache.catalina.core.ApplicationContext.log Manager: list: Listing contexts for virtual host 'localhost'
+06-Nov-2022 22:47:57.943 INFO [http-nio-8081-exec-83] org.apache.catalina.core.ApplicationContext.log Manager: list: Listing contexts for virtual host 'localhost'
+06-Nov-2022 22:47:57.963 INFO [http-nio-8081-exec-80] org.apache.catalina.core.ApplicationContext.log Manager: stop: Stopping web application '/cuoiki1'
+06-Nov-2022 22:47:57.970 INFO [http-nio-8081-exec-82] org.apache.catalina.core.ApplicationContext.log Manager: start: Starting web application '/cuoiki1'
+06-Nov-2022 22:48:08.771 INFO [http-nio-8081-exec-89] org.apache.catalina.core.ApplicationContext.log Manager: list: Listing contexts for virtual host 'localhost'
+06-Nov-2022 22:48:08.775 INFO [http-nio-8081-exec-93] org.apache.catalina.core.ApplicationContext.log Manager: list: Listing contexts for virtual host 'localhost'
+06-Nov-2022 22:48:08.790 INFO [http-nio-8081-exec-80] org.apache.catalina.core.ApplicationContext.log Manager: stop: Stopping web application '/cuoiki1'
+06-Nov-2022 22:48:08.799 INFO [http-nio-8081-exec-90] org.apache.catalina.core.ApplicationContext.log Manager: start: Starting web application '/cuoiki1'
+06-Nov-2022 22:49:47.512 INFO [http-nio-8081-exec-91] org.apache.catalina.core.ApplicationContext.log Manager: list: Listing contexts for virtual host 'localhost'
+06-Nov-2022 22:49:47.521 INFO [http-nio-8081-exec-96] org.apache.catalina.core.ApplicationContext.log Manager: stop: Stopping web application '/cuoiki1'
+06-Nov-2022 22:49:47.532 INFO [http-nio-8081-exec-86] org.apache.catalina.core.ApplicationContext.log Manager: start: Starting web application '/cuoiki1'
+06-Nov-2022 22:49:58.090 INFO [http-nio-8081-exec-90] org.apache.catalina.core.ApplicationContext.log Manager: list: Listing contexts for virtual host 'localhost'
+06-Nov-2022 22:49:58.098 INFO [http-nio-8081-exec-94] org.apache.catalina.core.ApplicationContext.log Manager: stop: Stopping web application '/cuoiki1'
+06-Nov-2022 22:49:58.106 INFO [http-nio-8081-exec-86] org.apache.catalina.core.ApplicationContext.log Manager: start: Starting web application '/cuoiki1'
+06-Nov-2022 22:49:58.117 SEVERE [http-nio-8081-exec-86] org.apache.catalina.core.ApplicationContext.log FAIL - Application at context path [/cuoiki1] could not be started
+ org.apache.catalina.LifecycleException: Failed to start component [StandardEngine[Catalina].StandardHost[localhost].StandardContext[/cuoiki1]]
+	at org.apache.catalina.util.LifecycleBase.start(LifecycleBase.java:167)
+	at org.apache.catalina.manager.ManagerServlet.start(ManagerServlet.java:1389)
+	at org.apache.catalina.manager.ManagerServlet.doGet(ManagerServlet.java:372)
+	at javax.servlet.http.HttpServlet.service(HttpServlet.java:635)
+	at javax.servlet.http.HttpServlet.service(HttpServlet.java:742)
+	at org.apache.catalina.core.ApplicationFilterChain.internalDoFilter(ApplicationFilterChain.java:231)
+	at org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:166)
+	at org.apache.tomcat.websocket.server.WsFilter.doFilter(WsFilter.java:52)
+	at org.apache.catalina.core.ApplicationFilterChain.internalDoFilter(ApplicationFilterChain.java:193)
+	at org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:166)
+	at org.apache.catalina.filters.SetCharacterEncodingFilter.doFilter(SetCharacterEncodingFilter.java:109)
+	at org.apache.catalina.core.ApplicationFilterChain.internalDoFilter(ApplicationFilterChain.java:193)
+	at org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:166)
+	at org.apache.catalina.core.StandardWrapperValve.invoke(StandardWrapperValve.java:198)
+	at org.apache.catalina.core.StandardContextValve.invoke(StandardContextValve.java:96)
+	at org.apache.catalina.authenticator.AuthenticatorBase.invoke(AuthenticatorBase.java:610)
+	at org.apache.catalina.valves.RequestFilterValve.process(RequestFilterValve.java:348)
+	at org.apache.catalina.valves.RemoteAddrValve.invoke(RemoteAddrValve.java:52)
+	at org.apache.catalina.core.StandardHostValve.invoke(StandardHostValve.java:140)
+	at org.apache.catalina.valves.ErrorReportValve.invoke(ErrorReportValve.java:81)
+	at org.apache.catalina.valves.AbstractAccessLogValve.invoke(AbstractAccessLogValve.java:650)
+	at org.apache.catalina.core.StandardEngineValve.invoke(StandardEngineValve.java:87)
+	at org.apache.catalina.connector.CoyoteAdapter.service(CoyoteAdapter.java:342)
+	at org.apache.coyote.http11.Http11Processor.service(Http11Processor.java:800)
+	at org.apache.coyote.AbstractProcessorLight.process(AbstractProcessorLight.java:66)
+	at org.apache.coyote.AbstractProtocol$ConnectionHandler.process(AbstractProtocol.java:806)
+	at org.apache.tomcat.util.net.NioEndpoint$SocketProcessor.doRun(NioEndpoint.java:1498)
+	at org.apache.tomcat.util.net.SocketProcessorBase.run(SocketProcessorBase.java:49)
+	at java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1149)
+	at java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:624)
+	at org.apache.tomcat.util.threads.TaskThread$WrappingRunnable.run(TaskThread.java:61)
+	at java.lang.Thread.run(Thread.java:748)
+Caused by: java.lang.IllegalArgumentException: The servlets named [login] and [homeControl1] are both mapped to the url-pattern [/login] which is not permitted
+	at org.apache.tomcat.util.descriptor.web.WebXml.addServletMappingDecoded(WebXml.java:326)
+	at org.apache.tomcat.util.descriptor.web.WebXml.addServletMapping(WebXml.java:319)
+	at org.apache.catalina.startup.ContextConfig.processAnnotationWebServlet(ContextConfig.java:2379)
+	at org.apache.catalina.startup.ContextConfig.processAnnotationsStream(ContextConfig.java:2056)
+	at org.apache.catalina.startup.ContextConfig.processAnnotationsWebResource(ContextConfig.java:1942)
+	at org.apache.catalina.startup.ContextConfig.processAnnotationsWebResource(ContextConfig.java:1936)
+	at org.apache.catalina.startup.ContextConfig.webConfig(ContextConfig.java:1143)
+	at org.apache.catalina.startup.ContextConfig.configureStart(ContextConfig.java:765)
+	at org.apache.catalina.startup.ContextConfig.lifecycleEvent(ContextConfig.java:299)
+	at org.apache.catalina.util.LifecycleBase.fireLifecycleEvent(LifecycleBase.java:94)
+	at org.apache.catalina.core.StandardContext.startInternal(StandardContext.java:5154)
+	at org.apache.catalina.util.LifecycleBase.start(LifecycleBase.java:150)
+	... 31 more
+
+06-Nov-2022 22:49:58.127 INFO [http-nio-8081-exec-82] org.apache.catalina.core.ApplicationContext.log Manager: list: Listing contexts for virtual host 'localhost'
+06-Nov-2022 22:49:58.131 INFO [http-nio-8081-exec-91] org.apache.catalina.core.ApplicationContext.log Manager: list: Listing contexts for virtual host 'localhost'
+06-Nov-2022 22:49:58.144 INFO [http-nio-8081-exec-99] org.apache.catalina.core.ApplicationContext.log Manager: undeploy: Undeploying web application at '/cuoiki1'
+06-Nov-2022 22:49:58.675 INFO [http-nio-8081-exec-92] org.apache.catalina.core.ApplicationContext.log Manager: install: Installing context configuration at 'file:/C:/Users/ADMIN/AppData/Local/Temp/context2024055353893984613.xml'
+06-Nov-2022 22:50:21.845 INFO [http-nio-8081-exec-97] org.apache.catalina.core.ApplicationContext.log Manager: list: Listing contexts for virtual host 'localhost'
+06-Nov-2022 22:50:21.849 INFO [http-nio-8081-exec-91] org.apache.catalina.core.ApplicationContext.log Manager: list: Listing contexts for virtual host 'localhost'
+06-Nov-2022 22:50:21.854 INFO [http-nio-8081-exec-82] org.apache.catalina.core.ApplicationContext.log Manager: undeploy: Undeploying web application at '/cuoiki1'
+06-Nov-2022 22:50:22.374 INFO [http-nio-8081-exec-92] org.apache.catalina.core.ApplicationContext.log Manager: install: Installing context configuration at 'file:/C:/Users/ADMIN/AppData/Local/Temp/context6006277337689298220.xml'
+06-Nov-2022 22:51:00.377 INFO [http-nio-8081-exec-86] org.apache.catalina.core.ApplicationContext.log Manager: list: Listing contexts for virtual host 'localhost'
+06-Nov-2022 22:51:00.380 INFO [http-nio-8081-exec-103] org.apache.catalina.core.ApplicationContext.log Manager: list: Listing contexts for virtual host 'localhost'
+06-Nov-2022 22:51:00.384 INFO [http-nio-8081-exec-97] org.apache.catalina.core.ApplicationContext.log Manager: undeploy: Undeploying web application at '/cuoiki1'
+06-Nov-2022 22:51:00.902 INFO [http-nio-8081-exec-103] org.apache.catalina.core.ApplicationContext.log Manager: install: Installing context configuration at 'file:/C:/Users/ADMIN/AppData/Local/Temp/context752323336179790567.xml'
+06-Nov-2022 22:51:08.344 INFO [http-nio-8081-exec-92] org.apache.catalina.core.ApplicationContext.log Manager: list: Listing contexts for virtual host 'localhost'
+06-Nov-2022 22:51:08.347 INFO [http-nio-8081-exec-82] org.apache.catalina.core.ApplicationContext.log Manager: list: Listing contexts for virtual host 'localhost'
+06-Nov-2022 22:51:08.363 INFO [http-nio-8081-exec-97] org.apache.catalina.core.ApplicationContext.log Manager: undeploy: Undeploying web application at '/cuoiki1'
+06-Nov-2022 22:51:08.884 INFO [http-nio-8081-exec-92] org.apache.catalina.core.ApplicationContext.log Manager: install: Installing context configuration at 'file:/C:/Users/ADMIN/AppData/Local/Temp/context4845405517770190068.xml'
+06-Nov-2022 22:51:26.154 INFO [http-nio-8081-exec-92] org.apache.catalina.core.ApplicationContext.log Manager: list: Listing contexts for virtual host 'localhost'
+06-Nov-2022 22:51:26.157 INFO [http-nio-8081-exec-95] org.apache.catalina.core.ApplicationContext.log Manager: list: Listing contexts for virtual host 'localhost'
+06-Nov-2022 22:51:26.164 INFO [http-nio-8081-exec-86] org.apache.catalina.core.ApplicationContext.log Manager: undeploy: Undeploying web application at '/cuoiki1'
+06-Nov-2022 22:51:26.681 INFO [http-nio-8081-exec-92] org.apache.catalina.core.ApplicationContext.log Manager: install: Installing context configuration at 'file:/C:/Users/ADMIN/AppData/Local/Temp/context7357031660519702013.xml'
+06-Nov-2022 22:51:30.587 INFO [http-nio-8081-exec-104] org.apache.catalina.core.ApplicationContext.log Manager: list: Listing contexts for virtual host 'localhost'
+06-Nov-2022 22:51:30.593 INFO [http-nio-8081-exec-102] org.apache.catalina.core.ApplicationContext.log Manager: list: Listing contexts for virtual host 'localhost'
+06-Nov-2022 22:51:30.600 INFO [http-nio-8081-exec-105] org.apache.catalina.core.ApplicationContext.log Manager: undeploy: Undeploying web application at '/cuoiki1'
+06-Nov-2022 22:51:31.122 INFO [http-nio-8081-exec-104] org.apache.catalina.core.ApplicationContext.log Manager: install: Installing context configuration at 'file:/C:/Users/ADMIN/AppData/Local/Temp/context4525093662830525727.xml'
+06-Nov-2022 22:51:31.254 INFO [http-nio-8081-exec-101] org.apache.catalina.core.ApplicationContext.log Manager: start: Starting web application '/cuoiki1'
+06-Nov-2022 23:20:30.703 INFO [http-nio-8081-exec-115] org.apache.catalina.core.ApplicationContext.log Manager: list: Listing contexts for virtual host 'localhost'
+06-Nov-2022 23:20:30.709 INFO [http-nio-8081-exec-108] org.apache.catalina.core.ApplicationContext.log Manager: list: Listing contexts for virtual host 'localhost'
+06-Nov-2022 23:20:30.717 INFO [http-nio-8081-exec-110] org.apache.catalina.core.ApplicationContext.log Manager: install: Installing context configuration at 'file:/C:/Users/ADMIN/AppData/Local/Temp/context4112436573583626127.xml'
+06-Nov-2022 23:20:30.945 INFO [http-nio-8081-exec-113] org.apache.catalina.core.ApplicationContext.log Manager: start: Starting web application '/test1'
+06-Nov-2022 23:22:22.879 INFO [http-nio-8081-exec-111] org.apache.catalina.core.ApplicationContext.log Manager: list: Listing contexts for virtual host 'localhost'
+06-Nov-2022 23:22:22.883 INFO [http-nio-8081-exec-115] org.apache.catalina.core.ApplicationContext.log Manager: list: Listing contexts for virtual host 'localhost'
+06-Nov-2022 23:24:08.684 INFO [http-nio-8081-exec-115] org.apache.catalina.core.ApplicationContext.log Manager: list: Listing contexts for virtual host 'localhost'
+06-Nov-2022 23:24:32.804 INFO [http-nio-8081-exec-113] org.apache.catalina.core.ApplicationContext.log Manager: list: Listing contexts for virtual host 'localhost'
+06-Nov-2022 23:24:44.250 INFO [http-nio-8081-exec-111] org.apache.catalina.core.ApplicationContext.log Manager: list: Listing contexts for virtual host 'localhost'
+06-Nov-2022 23:25:01.414 INFO [http-nio-8081-exec-114] org.apache.catalina.core.ApplicationContext.log Manager: list: Listing contexts for virtual host 'localhost'
+06-Nov-2022 23:25:40.959 INFO [http-nio-8081-exec-112] org.apache.catalina.core.ApplicationContext.log Manager: list: Listing contexts for virtual host 'localhost'
+06-Nov-2022 23:25:40.965 INFO [http-nio-8081-exec-111] org.apache.catalina.core.ApplicationContext.log Manager: restart: Reloading web application '/test1'
+06-Nov-2022 23:25:45.407 INFO [http-nio-8081-exec-110] org.apache.catalina.core.ApplicationContext.log Manager: list: Listing contexts for virtual host 'localhost'
+06-Nov-2022 23:25:45.411 INFO [http-nio-8081-exec-119] org.apache.catalina.core.ApplicationContext.log Manager: list: Listing contexts for virtual host 'localhost'
+06-Nov-2022 23:25:45.424 INFO [http-nio-8081-exec-115] org.apache.catalina.core.ApplicationContext.log Manager: restart: Reloading web application '/test1'
+06-Nov-2022 23:26:11.506 INFO [http-nio-8081-exec-119] org.apache.catalina.core.ApplicationContext.log Manager: list: Listing contexts for virtual host 'localhost'
+06-Nov-2022 23:26:11.510 INFO [http-nio-8081-exec-122] org.apache.catalina.core.ApplicationContext.log Manager: list: Listing contexts for virtual host 'localhost'
+06-Nov-2022 23:28:07.293 INFO [http-nio-8081-exec-121] org.apache.catalina.core.ApplicationContext.log Manager: list: Listing contexts for virtual host 'localhost'
+06-Nov-2022 23:28:07.301 INFO [http-nio-8081-exec-123] org.apache.catalina.core.ApplicationContext.log Manager: restart: Reloading web application '/test1'
+06-Nov-2022 23:29:23.538 INFO [http-nio-8081-exec-130] org.apache.catalina.core.ApplicationContext.log Manager: list: Listing contexts for virtual host 'localhost'
+06-Nov-2022 23:29:23.544 INFO [http-nio-8081-exec-127] org.apache.catalina.core.ApplicationContext.log Manager: restart: Reloading web application '/test1'
+06-Nov-2022 23:29:51.122 INFO [http-nio-8081-exec-120] org.apache.catalina.core.ApplicationContext.log Manager: list: Listing contexts for virtual host 'localhost'
+06-Nov-2022 23:29:51.127 INFO [http-nio-8081-exec-126] org.apache.catalina.core.ApplicationContext.log Manager: restart: Reloading web application '/test1'
+06-Nov-2022 23:30:02.981 INFO [http-nio-8081-exec-132] org.apache.catalina.core.ApplicationContext.log Manager: list: Listing contexts for virtual host 'localhost'
+06-Nov-2022 23:30:02.984 INFO [http-nio-8081-exec-133] org.apache.catalina.core.ApplicationContext.log Manager: list: Listing contexts for virtual host 'localhost'
+06-Nov-2022 23:30:03.005 INFO [http-nio-8081-exec-120] org.apache.catalina.core.ApplicationContext.log Manager: restart: Reloading web application '/test1'
+06-Nov-2022 23:31:35.341 INFO [http-nio-8081-exec-136] org.apache.catalina.core.ApplicationContext.log Manager: list: Listing contexts for virtual host 'localhost'
+06-Nov-2022 23:31:35.347 INFO [http-nio-8081-exec-124] org.apache.catalina.core.ApplicationContext.log Manager: restart: Reloading web application '/test1'
+06-Nov-2022 23:31:39.988 INFO [http-nio-8081-exec-140] org.apache.catalina.core.ApplicationContext.log Manager: list: Listing contexts for virtual host 'localhost'
+06-Nov-2022 23:31:39.993 INFO [http-nio-8081-exec-138] org.apache.catalina.core.ApplicationContext.log Manager: restart: Reloading web application '/test1'
+06-Nov-2022 23:31:49.861 INFO [http-nio-8081-exec-140] org.apache.catalina.core.ApplicationContext.log Manager: list: Listing contexts for virtual host 'localhost'
+06-Nov-2022 23:31:49.881 INFO [http-nio-8081-exec-127] org.apache.catalina.core.ApplicationContext.log Manager: restart: Reloading web application '/test1'
+06-Nov-2022 23:32:38.300 INFO [http-nio-8081-exec-134] org.apache.catalina.core.ApplicationContext.log Manager: list: Listing contexts for virtual host 'localhost'
+06-Nov-2022 23:32:38.303 INFO [http-nio-8081-exec-143] org.apache.catalina.core.ApplicationContext.log Manager: list: Listing contexts for virtual host 'localhost'
+06-Nov-2022 23:32:38.314 INFO [http-nio-8081-exec-127] org.apache.catalina.core.ApplicationContext.log Manager: restart: Reloading web application '/test1'
+06-Nov-2022 23:33:08.414 INFO [http-nio-8081-exec-138] org.apache.catalina.core.ApplicationContext.log Manager: list: Listing contexts for virtual host 'localhost'
+06-Nov-2022 23:33:46.764 INFO [http-nio-8081-exec-150] org.apache.catalina.core.ApplicationContext.log Manager: list: Listing contexts for virtual host 'localhost'
+06-Nov-2022 23:33:46.770 INFO [http-nio-8081-exec-138] org.apache.catalina.core.ApplicationContext.log Manager: restart: Reloading web application '/test1'
+06-Nov-2022 23:35:02.519 INFO [http-nio-8081-exec-151] org.apache.catalina.core.ApplicationContext.log Manager: list: Listing contexts for virtual host 'localhost'
+06-Nov-2022 23:35:02.531 INFO [http-nio-8081-exec-147] org.apache.catalina.core.ApplicationContext.log Manager: restart: Reloading web application '/test1'
+06-Nov-2022 23:35:03.651 INFO [http-nio-8081-exec-145] org.apache.catalina.core.ApplicationContext.log Manager: list: Listing contexts for virtual host 'localhost'
+06-Nov-2022 23:35:03.655 INFO [http-nio-8081-exec-138] org.apache.catalina.core.ApplicationContext.log Manager: list: Listing contexts for virtual host 'localhost'
+06-Nov-2022 23:35:03.666 INFO [http-nio-8081-exec-146] org.apache.catalina.core.ApplicationContext.log Manager: restart: Reloading web application '/test1'
+06-Nov-2022 23:35:50.926 INFO [http-nio-8081-exec-156] org.apache.catalina.core.ApplicationContext.log Manager: list: Listing contexts for virtual host 'localhost'
+06-Nov-2022 23:35:50.930 INFO [http-nio-8081-exec-158] org.apache.catalina.core.ApplicationContext.log Manager: list: Listing contexts for virtual host 'localhost'
+06-Nov-2022 23:36:22.679 INFO [http-nio-8081-exec-157] org.apache.catalina.core.ApplicationContext.log Manager: list: Listing contexts for virtual host 'localhost'
+06-Nov-2022 23:36:25.921 INFO [http-nio-8081-exec-158] org.apache.catalina.core.ApplicationContext.log Manager: list: Listing contexts for virtual host 'localhost'
+06-Nov-2022 23:36:25.925 INFO [http-nio-8081-exec-160] org.apache.catalina.core.ApplicationContext.log Manager: list: Listing contexts for virtual host 'localhost'
+06-Nov-2022 23:37:07.138 INFO [http-nio-8081-exec-157] org.apache.catalina.core.ApplicationContext.log Manager: list: Listing contexts for virtual host 'localhost'
+06-Nov-2022 23:37:07.150 INFO [http-nio-8081-exec-163] org.apache.catalina.core.ApplicationContext.log Manager: undeploy: Undeploying web application at '/test1'
+06-Nov-2022 23:37:42.657 INFO [http-nio-8081-exec-155] org.apache.catalina.core.ApplicationContext.log Manager: list: Listing contexts for virtual host 'localhost'
+06-Nov-2022 23:37:42.662 INFO [http-nio-8081-exec-157] org.apache.catalina.core.ApplicationContext.log Manager: restart: Reloading web application '/cuoiki1'
+06-Nov-2022 23:38:36.110 INFO [http-nio-8081-exec-160] org.apache.catalina.core.ApplicationContext.log Manager: list: Listing contexts for virtual host 'localhost'
+06-Nov-2022 23:38:36.118 INFO [http-nio-8081-exec-162] org.apache.catalina.core.ApplicationContext.log Manager: restart: Reloading web application '/cuoiki1'
+06-Nov-2022 23:38:39.513 INFO [http-nio-8081-exec-156] org.apache.catalina.core.ApplicationContext.log Manager: list: Listing contexts for virtual host 'localhost'
+06-Nov-2022 23:38:39.517 INFO [http-nio-8081-exec-167] org.apache.catalina.core.ApplicationContext.log Manager: list: Listing contexts for virtual host 'localhost'
+06-Nov-2022 23:38:39.550 INFO [http-nio-8081-exec-162] org.apache.catalina.core.ApplicationContext.log Manager: stop: Stopping web application '/cuoiki1'
+06-Nov-2022 23:38:39.556 INFO [http-nio-8081-exec-160] org.apache.catalina.core.ApplicationContext.log Manager: start: Starting web application '/cuoiki1'
+06-Nov-2022 23:39:00.194 INFO [http-nio-8081-exec-2] org.apache.catalina.core.ApplicationContext.log Manager: init: Associated with Deployer 'Catalina:type=Deployer,host=localhost'
+06-Nov-2022 23:39:00.194 INFO [http-nio-8081-exec-2] org.apache.catalina.core.ApplicationContext.log Manager: init: Global resources are available
+06-Nov-2022 23:39:32.970 INFO [http-nio-8081-exec-5] org.apache.catalina.core.ApplicationContext.log Manager: list: Listing contexts for virtual host 'localhost'
+06-Nov-2022 23:39:32.977 INFO [http-nio-8081-exec-7] org.apache.catalina.core.ApplicationContext.log Manager: list: Listing contexts for virtual host 'localhost'
+06-Nov-2022 23:39:58.047 INFO [http-nio-8081-exec-7] org.apache.catalina.core.ApplicationContext.log Manager: list: Listing contexts for virtual host 'localhost'
+06-Nov-2022 23:39:58.051 INFO [http-nio-8081-exec-8] org.apache.catalina.core.ApplicationContext.log Manager: list: Listing contexts for virtual host 'localhost'
+06-Nov-2022 23:40:43.599 INFO [http-nio-8081-exec-2] org.apache.catalina.core.ApplicationContext.log Manager: list: Listing contexts for virtual host 'localhost'
+06-Nov-2022 23:40:43.618 INFO [http-nio-8081-exec-5] org.apache.catalina.core.ApplicationContext.log Manager: restart: Reloading web application '/cuoiki1'
+06-Nov-2022 23:41:31.083 INFO [http-nio-8081-exec-2] org.apache.catalina.core.ApplicationContext.log Manager: list: Listing contexts for virtual host 'localhost'
+06-Nov-2022 23:41:31.092 INFO [http-nio-8081-exec-1] org.apache.catalina.core.ApplicationContext.log Manager: restart: Reloading web application '/cuoiki1'
+06-Nov-2022 23:42:56.724 INFO [http-nio-8081-exec-9] org.apache.catalina.core.ApplicationContext.log Manager: list: Listing contexts for virtual host 'localhost'
+06-Nov-2022 23:43:25.276 INFO [http-nio-8081-exec-4] org.apache.catalina.core.ApplicationContext.log Manager: list: Listing contexts for virtual host 'localhost'
+06-Nov-2022 23:43:29.683 INFO [http-nio-8081-exec-13] org.apache.catalina.core.ApplicationContext.log Manager: list: Listing contexts for virtual host 'localhost'
+06-Nov-2022 23:43:29.690 INFO [http-nio-8081-exec-12] org.apache.catalina.core.ApplicationContext.log Manager: restart: Reloading web application '/cuoiki1'
+06-Nov-2022 23:43:32.717 INFO [http-nio-8081-exec-14] org.apache.catalina.core.ApplicationContext.log Manager: list: Listing contexts for virtual host 'localhost'
+06-Nov-2022 23:43:32.721 INFO [http-nio-8081-exec-9] org.apache.catalina.core.ApplicationContext.log Manager: list: Listing contexts for virtual host 'localhost'
+06-Nov-2022 23:43:32.738 INFO [http-nio-8081-exec-16] org.apache.catalina.core.ApplicationContext.log Manager: restart: Reloading web application '/cuoiki1'
+06-Nov-2022 23:44:33.193 INFO [http-nio-8081-exec-1] org.apache.catalina.core.ApplicationContext.log Manager: list: Listing contexts for virtual host 'localhost'
+06-Nov-2022 23:44:33.198 INFO [http-nio-8081-exec-20] org.apache.catalina.core.ApplicationContext.log Manager: list: Listing contexts for virtual host 'localhost'
+06-Nov-2022 23:45:22.353 INFO [http-nio-8081-exec-14] org.apache.catalina.core.ApplicationContext.log Manager: list: Listing contexts for virtual host 'localhost'
+06-Nov-2022 23:45:27.641 INFO [http-nio-8081-exec-24] org.apache.catalina.core.ApplicationContext.log Manager: list: Listing contexts for virtual host 'localhost'
+06-Nov-2022 23:45:27.646 INFO [http-nio-8081-exec-21] org.apache.catalina.core.ApplicationContext.log Manager: list: Listing contexts for virtual host 'localhost'
+06-Nov-2022 23:45:34.957 INFO [http-nio-8081-exec-19] org.apache.catalina.core.ApplicationContext.log Manager: list: Listing contexts for virtual host 'localhost'
+06-Nov-2022 23:45:34.961 INFO [http-nio-8081-exec-23] org.apache.catalina.core.ApplicationContext.log Manager: list: Listing contexts for virtual host 'localhost'
+06-Nov-2022 23:47:55.127 INFO [http-nio-8081-exec-26] org.apache.catalina.core.ApplicationContext.log Manager: list: Listing contexts for virtual host 'localhost'
+06-Nov-2022 23:47:55.135 INFO [http-nio-8081-exec-18] org.apache.catalina.core.ApplicationContext.log Manager: stop: Stopping web application '/cuoiki1'
+06-Nov-2022 23:47:55.143 INFO [http-nio-8081-exec-19] org.apache.catalina.core.ApplicationContext.log Manager: start: Starting web application '/cuoiki1'
+06-Nov-2022 23:48:20.577 INFO [http-nio-8081-exec-25] org.apache.catalina.core.ApplicationContext.log Manager: list: Listing contexts for virtual host 'localhost'
+06-Nov-2022 23:48:20.582 INFO [http-nio-8081-exec-29] org.apache.catalina.core.ApplicationContext.log Manager: list: Listing contexts for virtual host 'localhost'
+06-Nov-2022 23:48:20.601 INFO [http-nio-8081-exec-30] org.apache.catalina.core.ApplicationContext.log Manager: undeploy: Undeploying web application at '/cuoiki1'
+06-Nov-2022 23:48:21.138 INFO [http-nio-8081-exec-19] org.apache.catalina.core.ApplicationContext.log Manager: install: Installing context configuration at 'file:/C:/Users/ADMIN/AppData/Local/Temp/context5613813817990624395.xml'
+06-Nov-2022 23:48:53.652 INFO [http-nio-8081-exec-23] org.apache.catalina.core.ApplicationContext.log Manager: list: Listing contexts for virtual host 'localhost'
+06-Nov-2022 23:48:53.657 INFO [http-nio-8081-exec-31] org.apache.catalina.core.ApplicationContext.log Manager: list: Listing contexts for virtual host 'localhost'
+06-Nov-2022 23:48:53.665 INFO [http-nio-8081-exec-29] org.apache.catalina.core.ApplicationContext.log Manager: undeploy: Undeploying web application at '/cuoiki1'
+06-Nov-2022 23:48:54.188 INFO [http-nio-8081-exec-25] org.apache.catalina.core.ApplicationContext.log Manager: install: Installing context configuration at 'file:/C:/Users/ADMIN/AppData/Local/Temp/context8029461287790588428.xml'
+06-Nov-2022 23:49:08.266 INFO [http-nio-8081-exec-29] org.apache.catalina.core.ApplicationContext.log Manager: list: Listing contexts for virtual host 'localhost'
+06-Nov-2022 23:49:08.269 INFO [http-nio-8081-exec-25] org.apache.catalina.core.ApplicationContext.log Manager: list: Listing contexts for virtual host 'localhost'
+06-Nov-2022 23:49:08.276 INFO [http-nio-8081-exec-33] org.apache.catalina.core.ApplicationContext.log Manager: undeploy: Undeploying web application at '/cuoiki1'
+06-Nov-2022 23:49:08.792 INFO [http-nio-8081-exec-19] org.apache.catalina.core.ApplicationContext.log Manager: install: Installing context configuration at 'file:/C:/Users/ADMIN/AppData/Local/Temp/context328605026271175999.xml'
+06-Nov-2022 23:49:11.883 INFO [http-nio-8081-exec-29] org.apache.catalina.core.ApplicationContext.log Manager: list: Listing contexts for virtual host 'localhost'
+06-Nov-2022 23:49:11.887 INFO [http-nio-8081-exec-19] org.apache.catalina.core.ApplicationContext.log Manager: list: Listing contexts for virtual host 'localhost'
+06-Nov-2022 23:49:11.895 INFO [http-nio-8081-exec-34] org.apache.catalina.core.ApplicationContext.log Manager: undeploy: Undeploying web application at '/cuoiki1'
+06-Nov-2022 23:49:12.422 INFO [http-nio-8081-exec-33] org.apache.catalina.core.ApplicationContext.log Manager: install: Installing context configuration at 'file:/C:/Users/ADMIN/AppData/Local/Temp/context1606205850708858788.xml'
+06-Nov-2022 23:49:18.371 INFO [http-nio-8081-exec-23] org.apache.catalina.core.ApplicationContext.log Manager: list: Listing contexts for virtual host 'localhost'
+06-Nov-2022 23:49:18.376 INFO [http-nio-8081-exec-31] org.apache.catalina.core.ApplicationContext.log Manager: list: Listing contexts for virtual host 'localhost'
+06-Nov-2022 23:49:18.389 INFO [http-nio-8081-exec-29] org.apache.catalina.core.ApplicationContext.log Manager: stop: Stopping web application '/cuoiki1'
+06-Nov-2022 23:49:18.397 INFO [http-nio-8081-exec-34] org.apache.catalina.core.ApplicationContext.log Manager: start: Starting web application '/cuoiki1'
+06-Nov-2022 23:49:18.463 SEVERE [http-nio-8081-exec-34] org.apache.catalina.core.ApplicationContext.log FAIL - Application at context path [/cuoiki1] could not be started
+ org.apache.catalina.LifecycleException: Failed to start component [StandardEngine[Catalina].StandardHost[localhost].StandardContext[/cuoiki1]]
+	at org.apache.catalina.util.LifecycleBase.start(LifecycleBase.java:167)
+	at org.apache.catalina.manager.ManagerServlet.start(ManagerServlet.java:1389)
+	at org.apache.catalina.manager.ManagerServlet.doGet(ManagerServlet.java:372)
+	at javax.servlet.http.HttpServlet.service(HttpServlet.java:635)
+	at javax.servlet.http.HttpServlet.service(HttpServlet.java:742)
+	at org.apache.catalina.core.ApplicationFilterChain.internalDoFilter(ApplicationFilterChain.java:231)
+	at org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:166)
+	at org.apache.tomcat.websocket.server.WsFilter.doFilter(WsFilter.java:52)
+	at org.apache.catalina.core.ApplicationFilterChain.internalDoFilter(ApplicationFilterChain.java:193)
+	at org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:166)
+	at org.apache.catalina.filters.SetCharacterEncodingFilter.doFilter(SetCharacterEncodingFilter.java:109)
+	at org.apache.catalina.core.ApplicationFilterChain.internalDoFilter(ApplicationFilterChain.java:193)
+	at org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:166)
+	at org.apache.catalina.core.StandardWrapperValve.invoke(StandardWrapperValve.java:198)
+	at org.apache.catalina.core.StandardContextValve.invoke(StandardContextValve.java:96)
+	at org.apache.catalina.authenticator.AuthenticatorBase.invoke(AuthenticatorBase.java:610)
+	at org.apache.catalina.valves.RequestFilterValve.process(RequestFilterValve.java:348)
+	at org.apache.catalina.valves.RemoteAddrValve.invoke(RemoteAddrValve.java:52)
+	at org.apache.catalina.core.StandardHostValve.invoke(StandardHostValve.java:140)
+	at org.apache.catalina.valves.ErrorReportValve.invoke(ErrorReportValve.java:81)
+	at org.apache.catalina.valves.AbstractAccessLogValve.invoke(AbstractAccessLogValve.java:650)
+	at org.apache.catalina.core.StandardEngineValve.invoke(StandardEngineValve.java:87)
+	at org.apache.catalina.connector.CoyoteAdapter.service(CoyoteAdapter.java:342)
+	at org.apache.coyote.http11.Http11Processor.service(Http11Processor.java:800)
+	at org.apache.coyote.AbstractProcessorLight.process(AbstractProcessorLight.java:66)
+	at org.apache.coyote.AbstractProtocol$ConnectionHandler.process(AbstractProtocol.java:806)
+	at org.apache.tomcat.util.net.NioEndpoint$SocketProcessor.doRun(NioEndpoint.java:1498)
+	at org.apache.tomcat.util.net.SocketProcessorBase.run(SocketProcessorBase.java:49)
+	at java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1149)
+	at java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:624)
+	at org.apache.tomcat.util.threads.TaskThread$WrappingRunnable.run(TaskThread.java:61)
+	at java.lang.Thread.run(Thread.java:748)
+Caused by: java.lang.IllegalArgumentException: Servlet mapping specifies an unknown servlet name [homeControl]
+	at org.apache.catalina.core.StandardContext.addServletMappingDecoded(StandardContext.java:3193)
+	at org.apache.catalina.core.StandardContext.addServletMappingDecoded(StandardContext.java:3184)
+	at org.apache.catalina.startup.ContextConfig.configureContext(ContextConfig.java:1366)
+	at org.apache.catalina.startup.ContextConfig.webConfig(ContextConfig.java:1180)
+	at org.apache.catalina.startup.ContextConfig.configureStart(ContextConfig.java:765)
+	at org.apache.catalina.startup.ContextConfig.lifecycleEvent(ContextConfig.java:299)
+	at org.apache.catalina.util.LifecycleBase.fireLifecycleEvent(LifecycleBase.java:94)
+	at org.apache.catalina.core.StandardContext.startInternal(StandardContext.java:5154)
+	at org.apache.catalina.util.LifecycleBase.start(LifecycleBase.java:150)
+	... 31 more
+
+06-Nov-2022 23:49:26.242 INFO [http-nio-8081-exec-34] org.apache.catalina.core.ApplicationContext.log Manager: list: Listing contexts for virtual host 'localhost'
+06-Nov-2022 23:49:26.247 INFO [http-nio-8081-exec-28] org.apache.catalina.core.ApplicationContext.log Manager: list: Listing contexts for virtual host 'localhost'
+06-Nov-2022 23:49:26.261 INFO [http-nio-8081-exec-33] org.apache.catalina.core.ApplicationContext.log Manager: stop: Stopping web application '/cuoiki1'
+06-Nov-2022 23:49:26.268 INFO [http-nio-8081-exec-34] org.apache.catalina.core.ApplicationContext.log Manager: start: Starting web application '/cuoiki1'
+06-Nov-2022 23:49:26.342 SEVERE [http-nio-8081-exec-34] org.apache.catalina.core.ApplicationContext.log FAIL - Application at context path [/cuoiki1] could not be started
+ org.apache.catalina.LifecycleException: Failed to start component [StandardEngine[Catalina].StandardHost[localhost].StandardContext[/cuoiki1]]
+	at org.apache.catalina.util.LifecycleBase.start(LifecycleBase.java:167)
+	at org.apache.catalina.manager.ManagerServlet.start(ManagerServlet.java:1389)
+	at org.apache.catalina.manager.ManagerServlet.doGet(ManagerServlet.java:372)
+	at javax.servlet.http.HttpServlet.service(HttpServlet.java:635)
+	at javax.servlet.http.HttpServlet.service(HttpServlet.java:742)
+	at org.apache.catalina.core.ApplicationFilterChain.internalDoFilter(ApplicationFilterChain.java:231)
+	at org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:166)
+	at org.apache.tomcat.websocket.server.WsFilter.doFilter(WsFilter.java:52)
+	at org.apache.catalina.core.ApplicationFilterChain.internalDoFilter(ApplicationFilterChain.java:193)
+	at org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:166)
+	at org.apache.catalina.filters.SetCharacterEncodingFilter.doFilter(SetCharacterEncodingFilter.java:109)
+	at org.apache.catalina.core.ApplicationFilterChain.internalDoFilter(ApplicationFilterChain.java:193)
+	at org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:166)
+	at org.apache.catalina.core.StandardWrapperValve.invoke(StandardWrapperValve.java:198)
+	at org.apache.catalina.core.StandardContextValve.invoke(StandardContextValve.java:96)
+	at org.apache.catalina.authenticator.AuthenticatorBase.invoke(AuthenticatorBase.java:610)
+	at org.apache.catalina.valves.RequestFilterValve.process(RequestFilterValve.java:348)
+	at org.apache.catalina.valves.RemoteAddrValve.invoke(RemoteAddrValve.java:52)
+	at org.apache.catalina.core.StandardHostValve.invoke(StandardHostValve.java:140)
+	at org.apache.catalina.valves.ErrorReportValve.invoke(ErrorReportValve.java:81)
+	at org.apache.catalina.valves.AbstractAccessLogValve.invoke(AbstractAccessLogValve.java:650)
+	at org.apache.catalina.core.StandardEngineValve.invoke(StandardEngineValve.java:87)
+	at org.apache.catalina.connector.CoyoteAdapter.service(CoyoteAdapter.java:342)
+	at org.apache.coyote.http11.Http11Processor.service(Http11Processor.java:800)
+	at org.apache.coyote.AbstractProcessorLight.process(AbstractProcessorLight.java:66)
+	at org.apache.coyote.AbstractProtocol$ConnectionHandler.process(AbstractProtocol.java:806)
+	at org.apache.tomcat.util.net.NioEndpoint$SocketProcessor.doRun(NioEndpoint.java:1498)
+	at org.apache.tomcat.util.net.SocketProcessorBase.run(SocketProcessorBase.java:49)
+	at java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1149)
+	at java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:624)
+	at org.apache.tomcat.util.threads.TaskThread$WrappingRunnable.run(TaskThread.java:61)
+	at java.lang.Thread.run(Thread.java:748)
+Caused by: java.lang.IllegalArgumentException: Servlet mapping specifies an unknown servlet name [homeControl]
+	at org.apache.catalina.core.StandardContext.addServletMappingDecoded(StandardContext.java:3193)
+	at org.apache.catalina.core.StandardContext.addServletMappingDecoded(StandardContext.java:3184)
+	at org.apache.catalina.startup.ContextConfig.configureContext(ContextConfig.java:1366)
+	at org.apache.catalina.startup.ContextConfig.webConfig(ContextConfig.java:1180)
+	at org.apache.catalina.startup.ContextConfig.configureStart(ContextConfig.java:765)
+	at org.apache.catalina.startup.ContextConfig.lifecycleEvent(ContextConfig.java:299)
+	at org.apache.catalina.util.LifecycleBase.fireLifecycleEvent(LifecycleBase.java:94)
+	at org.apache.catalina.core.StandardContext.startInternal(StandardContext.java:5154)
+	at org.apache.catalina.util.LifecycleBase.start(LifecycleBase.java:150)
+	... 31 more
+
+06-Nov-2022 23:49:47.158 INFO [http-nio-8081-exec-30] org.apache.catalina.core.ApplicationContext.log Manager: list: Listing contexts for virtual host 'localhost'
+06-Nov-2022 23:49:47.161 INFO [http-nio-8081-exec-38] org.apache.catalina.core.ApplicationContext.log Manager: list: Listing contexts for virtual host 'localhost'
+06-Nov-2022 23:49:47.175 INFO [http-nio-8081-exec-36] org.apache.catalina.core.ApplicationContext.log Manager: stop: Stopping web application '/cuoiki1'
+06-Nov-2022 23:49:47.182 INFO [http-nio-8081-exec-21] org.apache.catalina.core.ApplicationContext.log Manager: start: Starting web application '/cuoiki1'
+06-Nov-2022 23:49:47.290 SEVERE [http-nio-8081-exec-21] org.apache.catalina.core.ApplicationContext.log FAIL - Application at context path [/cuoiki1] could not be started
+ org.apache.catalina.LifecycleException: Failed to start component [StandardEngine[Catalina].StandardHost[localhost].StandardContext[/cuoiki1]]
+	at org.apache.catalina.util.LifecycleBase.start(LifecycleBase.java:167)
+	at org.apache.catalina.manager.ManagerServlet.start(ManagerServlet.java:1389)
+	at org.apache.catalina.manager.ManagerServlet.doGet(ManagerServlet.java:372)
+	at javax.servlet.http.HttpServlet.service(HttpServlet.java:635)
+	at javax.servlet.http.HttpServlet.service(HttpServlet.java:742)
+	at org.apache.catalina.core.ApplicationFilterChain.internalDoFilter(ApplicationFilterChain.java:231)
+	at org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:166)
+	at org.apache.tomcat.websocket.server.WsFilter.doFilter(WsFilter.java:52)
+	at org.apache.catalina.core.ApplicationFilterChain.internalDoFilter(ApplicationFilterChain.java:193)
+	at org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:166)
+	at org.apache.catalina.filters.SetCharacterEncodingFilter.doFilter(SetCharacterEncodingFilter.java:109)
+	at org.apache.catalina.core.ApplicationFilterChain.internalDoFilter(ApplicationFilterChain.java:193)
+	at org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:166)
+	at org.apache.catalina.core.StandardWrapperValve.invoke(StandardWrapperValve.java:198)
+	at org.apache.catalina.core.StandardContextValve.invoke(StandardContextValve.java:96)
+	at org.apache.catalina.authenticator.AuthenticatorBase.invoke(AuthenticatorBase.java:610)
+	at org.apache.catalina.valves.RequestFilterValve.process(RequestFilterValve.java:348)
+	at org.apache.catalina.valves.RemoteAddrValve.invoke(RemoteAddrValve.java:52)
+	at org.apache.catalina.core.StandardHostValve.invoke(StandardHostValve.java:140)
+	at org.apache.catalina.valves.ErrorReportValve.invoke(ErrorReportValve.java:81)
+	at org.apache.catalina.valves.AbstractAccessLogValve.invoke(AbstractAccessLogValve.java:650)
+	at org.apache.catalina.core.StandardEngineValve.invoke(StandardEngineValve.java:87)
+	at org.apache.catalina.connector.CoyoteAdapter.service(CoyoteAdapter.java:342)
+	at org.apache.coyote.http11.Http11Processor.service(Http11Processor.java:800)
+	at org.apache.coyote.AbstractProcessorLight.process(AbstractProcessorLight.java:66)
+	at org.apache.coyote.AbstractProtocol$ConnectionHandler.process(AbstractProtocol.java:806)
+	at org.apache.tomcat.util.net.NioEndpoint$SocketProcessor.doRun(NioEndpoint.java:1498)
+	at org.apache.tomcat.util.net.SocketProcessorBase.run(SocketProcessorBase.java:49)
+	at java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1149)
+	at java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:624)
+	at org.apache.tomcat.util.threads.TaskThread$WrappingRunnable.run(TaskThread.java:61)
+	at java.lang.Thread.run(Thread.java:748)
+Caused by: java.lang.IllegalArgumentException: Servlet mapping specifies an unknown servlet name [homeControl]
+	at org.apache.catalina.core.StandardContext.addServletMappingDecoded(StandardContext.java:3193)
+	at org.apache.catalina.core.StandardContext.addServletMappingDecoded(StandardContext.java:3184)
+	at org.apache.catalina.startup.ContextConfig.configureContext(ContextConfig.java:1366)
+	at org.apache.catalina.startup.ContextConfig.webConfig(ContextConfig.java:1180)
+	at org.apache.catalina.startup.ContextConfig.configureStart(ContextConfig.java:765)
+	at org.apache.catalina.startup.ContextConfig.lifecycleEvent(ContextConfig.java:299)
+	at org.apache.catalina.util.LifecycleBase.fireLifecycleEvent(LifecycleBase.java:94)
+	at org.apache.catalina.core.StandardContext.startInternal(StandardContext.java:5154)
+	at org.apache.catalina.util.LifecycleBase.start(LifecycleBase.java:150)
+	... 31 more
+
+06-Nov-2022 23:50:33.528 INFO [http-nio-8081-exec-1] org.apache.catalina.core.ApplicationContext.log Manager: init: Associated with Deployer 'Catalina:type=Deployer,host=localhost'
+06-Nov-2022 23:50:33.528 INFO [http-nio-8081-exec-1] org.apache.catalina.core.ApplicationContext.log Manager: init: Global resources are available
+06-Nov-2022 23:50:49.230 INFO [http-nio-8081-exec-1] org.apache.catalina.core.ApplicationContext.log Manager: list: Listing contexts for virtual host 'localhost'
+06-Nov-2022 23:50:49.235 INFO [http-nio-8081-exec-4] org.apache.catalina.core.ApplicationContext.log Manager: list: Listing contexts for virtual host 'localhost'
+06-Nov-2022 23:50:49.252 INFO [http-nio-8081-exec-7] org.apache.catalina.core.ApplicationContext.log Manager: stop: Stopping web application '/cuoiki1'
+06-Nov-2022 23:50:49.271 INFO [http-nio-8081-exec-3] org.apache.catalina.core.ApplicationContext.log Manager: start: Starting web application '/cuoiki1'
+06-Nov-2022 23:50:49.386 SEVERE [http-nio-8081-exec-3] org.apache.catalina.core.ApplicationContext.log FAIL - Application at context path [/cuoiki1] could not be started
+ org.apache.catalina.LifecycleException: Failed to start component [StandardEngine[Catalina].StandardHost[localhost].StandardContext[/cuoiki1]]
+	at org.apache.catalina.util.LifecycleBase.start(LifecycleBase.java:167)
+	at org.apache.catalina.manager.ManagerServlet.start(ManagerServlet.java:1389)
+	at org.apache.catalina.manager.ManagerServlet.doGet(ManagerServlet.java:372)
+	at javax.servlet.http.HttpServlet.service(HttpServlet.java:635)
+	at javax.servlet.http.HttpServlet.service(HttpServlet.java:742)
+	at org.apache.catalina.core.ApplicationFilterChain.internalDoFilter(ApplicationFilterChain.java:231)
+	at org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:166)
+	at org.apache.tomcat.websocket.server.WsFilter.doFilter(WsFilter.java:52)
+	at org.apache.catalina.core.ApplicationFilterChain.internalDoFilter(ApplicationFilterChain.java:193)
+	at org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:166)
+	at org.apache.catalina.filters.SetCharacterEncodingFilter.doFilter(SetCharacterEncodingFilter.java:109)
+	at org.apache.catalina.core.ApplicationFilterChain.internalDoFilter(ApplicationFilterChain.java:193)
+	at org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:166)
+	at org.apache.catalina.core.StandardWrapperValve.invoke(StandardWrapperValve.java:198)
+	at org.apache.catalina.core.StandardContextValve.invoke(StandardContextValve.java:96)
+	at org.apache.catalina.authenticator.AuthenticatorBase.invoke(AuthenticatorBase.java:610)
+	at org.apache.catalina.valves.RequestFilterValve.process(RequestFilterValve.java:348)
+	at org.apache.catalina.valves.RemoteAddrValve.invoke(RemoteAddrValve.java:52)
+	at org.apache.catalina.core.StandardHostValve.invoke(StandardHostValve.java:140)
+	at org.apache.catalina.valves.ErrorReportValve.invoke(ErrorReportValve.java:81)
+	at org.apache.catalina.valves.AbstractAccessLogValve.invoke(AbstractAccessLogValve.java:650)
+	at org.apache.catalina.core.StandardEngineValve.invoke(StandardEngineValve.java:87)
+	at org.apache.catalina.connector.CoyoteAdapter.service(CoyoteAdapter.java:342)
+	at org.apache.coyote.http11.Http11Processor.service(Http11Processor.java:800)
+	at org.apache.coyote.AbstractProcessorLight.process(AbstractProcessorLight.java:66)
+	at org.apache.coyote.AbstractProtocol$ConnectionHandler.process(AbstractProtocol.java:806)
+	at org.apache.tomcat.util.net.NioEndpoint$SocketProcessor.doRun(NioEndpoint.java:1498)
+	at org.apache.tomcat.util.net.SocketProcessorBase.run(SocketProcessorBase.java:49)
+	at java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1149)
+	at java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:624)
+	at org.apache.tomcat.util.threads.TaskThread$WrappingRunnable.run(TaskThread.java:61)
+	at java.lang.Thread.run(Thread.java:748)
+Caused by: java.lang.IllegalArgumentException: Servlet mapping specifies an unknown servlet name [homeControl]
+	at org.apache.catalina.core.StandardContext.addServletMappingDecoded(StandardContext.java:3193)
+	at org.apache.catalina.core.StandardContext.addServletMappingDecoded(StandardContext.java:3184)
+	at org.apache.catalina.startup.ContextConfig.configureContext(ContextConfig.java:1366)
+	at org.apache.catalina.startup.ContextConfig.webConfig(ContextConfig.java:1180)
+	at org.apache.catalina.startup.ContextConfig.configureStart(ContextConfig.java:765)
+	at org.apache.catalina.startup.ContextConfig.lifecycleEvent(ContextConfig.java:299)
+	at org.apache.catalina.util.LifecycleBase.fireLifecycleEvent(LifecycleBase.java:94)
+	at org.apache.catalina.core.StandardContext.startInternal(StandardContext.java:5154)
+	at org.apache.catalina.util.LifecycleBase.start(LifecycleBase.java:150)
+	... 31 more
+
+06-Nov-2022 23:50:58.512 INFO [http-nio-8081-exec-11] org.apache.catalina.core.ApplicationContext.log Manager: list: Listing contexts for virtual host 'localhost'
+06-Nov-2022 23:50:58.517 INFO [http-nio-8081-exec-3] org.apache.catalina.core.ApplicationContext.log Manager: list: Listing contexts for virtual host 'localhost'
+06-Nov-2022 23:50:58.534 INFO [http-nio-8081-exec-13] org.apache.catalina.core.ApplicationContext.log Manager: stop: Stopping web application '/cuoiki1'
+06-Nov-2022 23:50:58.549 INFO [http-nio-8081-exec-12] org.apache.catalina.core.ApplicationContext.log Manager: start: Starting web application '/cuoiki1'
+06-Nov-2022 23:50:58.637 SEVERE [http-nio-8081-exec-12] org.apache.catalina.core.ApplicationContext.log FAIL - Application at context path [/cuoiki1] could not be started
+ org.apache.catalina.LifecycleException: Failed to start component [StandardEngine[Catalina].StandardHost[localhost].StandardContext[/cuoiki1]]
+	at org.apache.catalina.util.LifecycleBase.start(LifecycleBase.java:167)
+	at org.apache.catalina.manager.ManagerServlet.start(ManagerServlet.java:1389)
+	at org.apache.catalina.manager.ManagerServlet.doGet(ManagerServlet.java:372)
+	at javax.servlet.http.HttpServlet.service(HttpServlet.java:635)
+	at javax.servlet.http.HttpServlet.service(HttpServlet.java:742)
+	at org.apache.catalina.core.ApplicationFilterChain.internalDoFilter(ApplicationFilterChain.java:231)
+	at org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:166)
+	at org.apache.tomcat.websocket.server.WsFilter.doFilter(WsFilter.java:52)
+	at org.apache.catalina.core.ApplicationFilterChain.internalDoFilter(ApplicationFilterChain.java:193)
+	at org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:166)
+	at org.apache.catalina.filters.SetCharacterEncodingFilter.doFilter(SetCharacterEncodingFilter.java:109)
+	at org.apache.catalina.core.ApplicationFilterChain.internalDoFilter(ApplicationFilterChain.java:193)
+	at org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:166)
+	at org.apache.catalina.core.StandardWrapperValve.invoke(StandardWrapperValve.java:198)
+	at org.apache.catalina.core.StandardContextValve.invoke(StandardContextValve.java:96)
+	at org.apache.catalina.authenticator.AuthenticatorBase.invoke(AuthenticatorBase.java:610)
+	at org.apache.catalina.valves.RequestFilterValve.process(RequestFilterValve.java:348)
+	at org.apache.catalina.valves.RemoteAddrValve.invoke(RemoteAddrValve.java:52)
+	at org.apache.catalina.core.StandardHostValve.invoke(StandardHostValve.java:140)
+	at org.apache.catalina.valves.ErrorReportValve.invoke(ErrorReportValve.java:81)
+	at org.apache.catalina.valves.AbstractAccessLogValve.invoke(AbstractAccessLogValve.java:650)
+	at org.apache.catalina.core.StandardEngineValve.invoke(StandardEngineValve.java:87)
+	at org.apache.catalina.connector.CoyoteAdapter.service(CoyoteAdapter.java:342)
+	at org.apache.coyote.http11.Http11Processor.service(Http11Processor.java:800)
+	at org.apache.coyote.AbstractProcessorLight.process(AbstractProcessorLight.java:66)
+	at org.apache.coyote.AbstractProtocol$ConnectionHandler.process(AbstractProtocol.java:806)
+	at org.apache.tomcat.util.net.NioEndpoint$SocketProcessor.doRun(NioEndpoint.java:1498)
+	at org.apache.tomcat.util.net.SocketProcessorBase.run(SocketProcessorBase.java:49)
+	at java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1149)
+	at java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:624)
+	at org.apache.tomcat.util.threads.TaskThread$WrappingRunnable.run(TaskThread.java:61)
+	at java.lang.Thread.run(Thread.java:748)
+Caused by: java.lang.IllegalArgumentException: Servlet mapping specifies an unknown servlet name [homeControl]
+	at org.apache.catalina.core.StandardContext.addServletMappingDecoded(StandardContext.java:3193)
+	at org.apache.catalina.core.StandardContext.addServletMappingDecoded(StandardContext.java:3184)
+	at org.apache.catalina.startup.ContextConfig.configureContext(ContextConfig.java:1366)
+	at org.apache.catalina.startup.ContextConfig.webConfig(ContextConfig.java:1180)
+	at org.apache.catalina.startup.ContextConfig.configureStart(ContextConfig.java:765)
+	at org.apache.catalina.startup.ContextConfig.lifecycleEvent(ContextConfig.java:299)
+	at org.apache.catalina.util.LifecycleBase.fireLifecycleEvent(LifecycleBase.java:94)
+	at org.apache.catalina.core.StandardContext.startInternal(StandardContext.java:5154)
+	at org.apache.catalina.util.LifecycleBase.start(LifecycleBase.java:150)
+	... 31 more
+
+06-Nov-2022 23:52:35.695 INFO [http-nio-8081-exec-2] org.apache.catalina.core.ApplicationContext.log Manager: list: Listing contexts for virtual host 'localhost'
+06-Nov-2022 23:52:35.699 INFO [http-nio-8081-exec-12] org.apache.catalina.core.ApplicationContext.log Manager: list: Listing contexts for virtual host 'localhost'
+06-Nov-2022 23:52:35.715 INFO [http-nio-8081-exec-3] org.apache.catalina.core.ApplicationContext.log Manager: stop: Stopping web application '/cuoiki1'
+06-Nov-2022 23:52:35.724 INFO [http-nio-8081-exec-5] org.apache.catalina.core.ApplicationContext.log Manager: start: Starting web application '/cuoiki1'
+06-Nov-2022 23:52:35.828 SEVERE [http-nio-8081-exec-5] org.apache.catalina.core.ApplicationContext.log FAIL - Application at context path [/cuoiki1] could not be started
+ org.apache.catalina.LifecycleException: Failed to start component [StandardEngine[Catalina].StandardHost[localhost].StandardContext[/cuoiki1]]
+	at org.apache.catalina.util.LifecycleBase.start(LifecycleBase.java:167)
+	at org.apache.catalina.manager.ManagerServlet.start(ManagerServlet.java:1389)
+	at org.apache.catalina.manager.ManagerServlet.doGet(ManagerServlet.java:372)
+	at javax.servlet.http.HttpServlet.service(HttpServlet.java:635)
+	at javax.servlet.http.HttpServlet.service(HttpServlet.java:742)
+	at org.apache.catalina.core.ApplicationFilterChain.internalDoFilter(ApplicationFilterChain.java:231)
+	at org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:166)
+	at org.apache.tomcat.websocket.server.WsFilter.doFilter(WsFilter.java:52)
+	at org.apache.catalina.core.ApplicationFilterChain.internalDoFilter(ApplicationFilterChain.java:193)
+	at org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:166)
+	at org.apache.catalina.filters.SetCharacterEncodingFilter.doFilter(SetCharacterEncodingFilter.java:109)
+	at org.apache.catalina.core.ApplicationFilterChain.internalDoFilter(ApplicationFilterChain.java:193)
+	at org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:166)
+	at org.apache.catalina.core.StandardWrapperValve.invoke(StandardWrapperValve.java:198)
+	at org.apache.catalina.core.StandardContextValve.invoke(StandardContextValve.java:96)
+	at org.apache.catalina.authenticator.AuthenticatorBase.invoke(AuthenticatorBase.java:610)
+	at org.apache.catalina.valves.RequestFilterValve.process(RequestFilterValve.java:348)
+	at org.apache.catalina.valves.RemoteAddrValve.invoke(RemoteAddrValve.java:52)
+	at org.apache.catalina.core.StandardHostValve.invoke(StandardHostValve.java:140)
+	at org.apache.catalina.valves.ErrorReportValve.invoke(ErrorReportValve.java:81)
+	at org.apache.catalina.valves.AbstractAccessLogValve.invoke(AbstractAccessLogValve.java:650)
+	at org.apache.catalina.core.StandardEngineValve.invoke(StandardEngineValve.java:87)
+	at org.apache.catalina.connector.CoyoteAdapter.service(CoyoteAdapter.java:342)
+	at org.apache.coyote.http11.Http11Processor.service(Http11Processor.java:800)
+	at org.apache.coyote.AbstractProcessorLight.process(AbstractProcessorLight.java:66)
+	at org.apache.coyote.AbstractProtocol$ConnectionHandler.process(AbstractProtocol.java:806)
+	at org.apache.tomcat.util.net.NioEndpoint$SocketProcessor.doRun(NioEndpoint.java:1498)
+	at org.apache.tomcat.util.net.SocketProcessorBase.run(SocketProcessorBase.java:49)
+	at java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1149)
+	at java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:624)
+	at org.apache.tomcat.util.threads.TaskThread$WrappingRunnable.run(TaskThread.java:61)
+	at java.lang.Thread.run(Thread.java:748)
+Caused by: java.lang.IllegalArgumentException: Servlet mapping specifies an unknown servlet name [homeControl]
+	at org.apache.catalina.core.StandardContext.addServletMappingDecoded(StandardContext.java:3193)
+	at org.apache.catalina.core.StandardContext.addServletMappingDecoded(StandardContext.java:3184)
+	at org.apache.catalina.startup.ContextConfig.configureContext(ContextConfig.java:1366)
+	at org.apache.catalina.startup.ContextConfig.webConfig(ContextConfig.java:1180)
+	at org.apache.catalina.startup.ContextConfig.configureStart(ContextConfig.java:765)
+	at org.apache.catalina.startup.ContextConfig.lifecycleEvent(ContextConfig.java:299)
+	at org.apache.catalina.util.LifecycleBase.fireLifecycleEvent(LifecycleBase.java:94)
+	at org.apache.catalina.core.StandardContext.startInternal(StandardContext.java:5154)
+	at org.apache.catalina.util.LifecycleBase.start(LifecycleBase.java:150)
+	... 31 more
+
+06-Nov-2022 23:53:27.564 INFO [http-nio-8081-exec-4] org.apache.catalina.core.ApplicationContext.log Manager: init: Associated with Deployer 'Catalina:type=Deployer,host=localhost'
+06-Nov-2022 23:53:27.564 INFO [http-nio-8081-exec-4] org.apache.catalina.core.ApplicationContext.log Manager: init: Global resources are available
+06-Nov-2022 23:53:27.850 INFO [http-nio-8081-exec-9] org.apache.catalina.core.ApplicationContext.log Manager: list: Listing contexts for virtual host 'localhost'
+06-Nov-2022 23:53:27.857 INFO [http-nio-8081-exec-3] org.apache.catalina.core.ApplicationContext.log Manager: list: Listing contexts for virtual host 'localhost'
+06-Nov-2022 23:53:27.888 INFO [http-nio-8081-exec-6] org.apache.catalina.core.ApplicationContext.log Manager: stop: Stopping web application '/cuoiki1'
+06-Nov-2022 23:53:27.897 INFO [http-nio-8081-exec-3] org.apache.catalina.core.ApplicationContext.log Manager: start: Starting web application '/cuoiki1'
+06-Nov-2022 23:53:28.011 SEVERE [http-nio-8081-exec-3] org.apache.catalina.core.ApplicationContext.log FAIL - Application at context path [/cuoiki1] could not be started
+ org.apache.catalina.LifecycleException: Failed to start component [StandardEngine[Catalina].StandardHost[localhost].StandardContext[/cuoiki1]]
+	at org.apache.catalina.util.LifecycleBase.start(LifecycleBase.java:167)
+	at org.apache.catalina.manager.ManagerServlet.start(ManagerServlet.java:1389)
+	at org.apache.catalina.manager.ManagerServlet.doGet(ManagerServlet.java:372)
+	at javax.servlet.http.HttpServlet.service(HttpServlet.java:635)
+	at javax.servlet.http.HttpServlet.service(HttpServlet.java:742)
+	at org.apache.catalina.core.ApplicationFilterChain.internalDoFilter(ApplicationFilterChain.java:231)
+	at org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:166)
+	at org.apache.tomcat.websocket.server.WsFilter.doFilter(WsFilter.java:52)
+	at org.apache.catalina.core.ApplicationFilterChain.internalDoFilter(ApplicationFilterChain.java:193)
+	at org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:166)
+	at org.apache.catalina.filters.SetCharacterEncodingFilter.doFilter(SetCharacterEncodingFilter.java:109)
+	at org.apache.catalina.core.ApplicationFilterChain.internalDoFilter(ApplicationFilterChain.java:193)
+	at org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:166)
+	at org.apache.catalina.core.StandardWrapperValve.invoke(StandardWrapperValve.java:198)
+	at org.apache.catalina.core.StandardContextValve.invoke(StandardContextValve.java:96)
+	at org.apache.catalina.authenticator.AuthenticatorBase.invoke(AuthenticatorBase.java:610)
+	at org.apache.catalina.valves.RequestFilterValve.process(RequestFilterValve.java:348)
+	at org.apache.catalina.valves.RemoteAddrValve.invoke(RemoteAddrValve.java:52)
+	at org.apache.catalina.core.StandardHostValve.invoke(StandardHostValve.java:140)
+	at org.apache.catalina.valves.ErrorReportValve.invoke(ErrorReportValve.java:81)
+	at org.apache.catalina.valves.AbstractAccessLogValve.invoke(AbstractAccessLogValve.java:650)
+	at org.apache.catalina.core.StandardEngineValve.invoke(StandardEngineValve.java:87)
+	at org.apache.catalina.connector.CoyoteAdapter.service(CoyoteAdapter.java:342)
+	at org.apache.coyote.http11.Http11Processor.service(Http11Processor.java:800)
+	at org.apache.coyote.AbstractProcessorLight.process(AbstractProcessorLight.java:66)
+	at org.apache.coyote.AbstractProtocol$ConnectionHandler.process(AbstractProtocol.java:806)
+	at org.apache.tomcat.util.net.NioEndpoint$SocketProcessor.doRun(NioEndpoint.java:1498)
+	at org.apache.tomcat.util.net.SocketProcessorBase.run(SocketProcessorBase.java:49)
+	at java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1149)
+	at java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:624)
+	at org.apache.tomcat.util.threads.TaskThread$WrappingRunnable.run(TaskThread.java:61)
+	at java.lang.Thread.run(Thread.java:748)
+Caused by: java.lang.IllegalArgumentException: Servlet mapping specifies an unknown servlet name [homeControl]
+	at org.apache.catalina.core.StandardContext.addServletMappingDecoded(StandardContext.java:3193)
+	at org.apache.catalina.core.StandardContext.addServletMappingDecoded(StandardContext.java:3184)
+	at org.apache.catalina.startup.ContextConfig.configureContext(ContextConfig.java:1366)
+	at org.apache.catalina.startup.ContextConfig.webConfig(ContextConfig.java:1180)
+	at org.apache.catalina.startup.ContextConfig.configureStart(ContextConfig.java:765)
+	at org.apache.catalina.startup.ContextConfig.lifecycleEvent(ContextConfig.java:299)
+	at org.apache.catalina.util.LifecycleBase.fireLifecycleEvent(LifecycleBase.java:94)
+	at org.apache.catalina.core.StandardContext.startInternal(StandardContext.java:5154)
+	at org.apache.catalina.util.LifecycleBase.start(LifecycleBase.java:150)
+	... 31 more
+
+06-Nov-2022 23:54:05.964 INFO [http-nio-8081-exec-1] org.apache.catalina.core.ApplicationContext.log Manager: init: Associated with Deployer 'Catalina:type=Deployer,host=localhost'
+06-Nov-2022 23:54:05.964 INFO [http-nio-8081-exec-1] org.apache.catalina.core.ApplicationContext.log Manager: init: Global resources are available
+06-Nov-2022 23:54:19.180 INFO [http-nio-8081-exec-6] org.apache.catalina.core.ApplicationContext.log Manager: list: Listing contexts for virtual host 'localhost'
+06-Nov-2022 23:54:19.187 INFO [http-nio-8081-exec-10] org.apache.catalina.core.ApplicationContext.log Manager: list: Listing contexts for virtual host 'localhost'
+06-Nov-2022 23:54:19.203 INFO [http-nio-8081-exec-3] org.apache.catalina.core.ApplicationContext.log Manager: stop: Stopping web application '/cuoiki1'
+06-Nov-2022 23:54:19.216 INFO [http-nio-8081-exec-8] org.apache.catalina.core.ApplicationContext.log Manager: start: Starting web application '/cuoiki1'
+06-Nov-2022 23:54:19.324 SEVERE [http-nio-8081-exec-8] org.apache.catalina.core.ApplicationContext.log FAIL - Application at context path [/cuoiki1] could not be started
+ org.apache.catalina.LifecycleException: Failed to start component [StandardEngine[Catalina].StandardHost[localhost].StandardContext[/cuoiki1]]
+	at org.apache.catalina.util.LifecycleBase.start(LifecycleBase.java:167)
+	at org.apache.catalina.manager.ManagerServlet.start(ManagerServlet.java:1389)
+	at org.apache.catalina.manager.ManagerServlet.doGet(ManagerServlet.java:372)
+	at javax.servlet.http.HttpServlet.service(HttpServlet.java:635)
+	at javax.servlet.http.HttpServlet.service(HttpServlet.java:742)
+	at org.apache.catalina.core.ApplicationFilterChain.internalDoFilter(ApplicationFilterChain.java:231)
+	at org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:166)
+	at org.apache.tomcat.websocket.server.WsFilter.doFilter(WsFilter.java:52)
+	at org.apache.catalina.core.ApplicationFilterChain.internalDoFilter(ApplicationFilterChain.java:193)
+	at org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:166)
+	at org.apache.catalina.filters.SetCharacterEncodingFilter.doFilter(SetCharacterEncodingFilter.java:109)
+	at org.apache.catalina.core.ApplicationFilterChain.internalDoFilter(ApplicationFilterChain.java:193)
+	at org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:166)
+	at org.apache.catalina.core.StandardWrapperValve.invoke(StandardWrapperValve.java:198)
+	at org.apache.catalina.core.StandardContextValve.invoke(StandardContextValve.java:96)
+	at org.apache.catalina.authenticator.AuthenticatorBase.invoke(AuthenticatorBase.java:610)
+	at org.apache.catalina.valves.RequestFilterValve.process(RequestFilterValve.java:348)
+	at org.apache.catalina.valves.RemoteAddrValve.invoke(RemoteAddrValve.java:52)
+	at org.apache.catalina.core.StandardHostValve.invoke(StandardHostValve.java:140)
+	at org.apache.catalina.valves.ErrorReportValve.invoke(ErrorReportValve.java:81)
+	at org.apache.catalina.valves.AbstractAccessLogValve.invoke(AbstractAccessLogValve.java:650)
+	at org.apache.catalina.core.StandardEngineValve.invoke(StandardEngineValve.java:87)
+	at org.apache.catalina.connector.CoyoteAdapter.service(CoyoteAdapter.java:342)
+	at org.apache.coyote.http11.Http11Processor.service(Http11Processor.java:800)
+	at org.apache.coyote.AbstractProcessorLight.process(AbstractProcessorLight.java:66)
+	at org.apache.coyote.AbstractProtocol$ConnectionHandler.process(AbstractProtocol.java:806)
+	at org.apache.tomcat.util.net.NioEndpoint$SocketProcessor.doRun(NioEndpoint.java:1498)
+	at org.apache.tomcat.util.net.SocketProcessorBase.run(SocketProcessorBase.java:49)
+	at java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1149)
+	at java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:624)
+	at org.apache.tomcat.util.threads.TaskThread$WrappingRunnable.run(TaskThread.java:61)
+	at java.lang.Thread.run(Thread.java:748)
+Caused by: java.lang.IllegalArgumentException: Servlet mapping specifies an unknown servlet name [homeControl]
+	at org.apache.catalina.core.StandardContext.addServletMappingDecoded(StandardContext.java:3193)
+	at org.apache.catalina.core.StandardContext.addServletMappingDecoded(StandardContext.java:3184)
+	at org.apache.catalina.startup.ContextConfig.configureContext(ContextConfig.java:1366)
+	at org.apache.catalina.startup.ContextConfig.webConfig(ContextConfig.java:1180)
+	at org.apache.catalina.startup.ContextConfig.configureStart(ContextConfig.java:765)
+	at org.apache.catalina.startup.ContextConfig.lifecycleEvent(ContextConfig.java:299)
+	at org.apache.catalina.util.LifecycleBase.fireLifecycleEvent(LifecycleBase.java:94)
+	at org.apache.catalina.core.StandardContext.startInternal(StandardContext.java:5154)
+	at org.apache.catalina.util.LifecycleBase.start(LifecycleBase.java:150)
+	... 31 more
+
