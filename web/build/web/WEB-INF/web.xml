@@ -8,10 +8,7 @@
         <servlet-name>homeControl</servlet-name>
         <servlet-class>control.homeControl</servlet-class>
     </servlet>
-    <servlet>
-        <servlet-name>addControl</servlet-name>
-        <servlet-class>addControl</servlet-class>
-    </servlet>
+
     <servlet>
         <servlet-name>add</servlet-name>
         <servlet-class>control.add</servlet-class>
@@ -126,7 +123,7 @@
     </servlet>
     <servlet>
         <servlet-name>adminLogin</servlet-name>
-        <servlet-class>control.adminLogin</servlet-class>
+        <servlet-class>control.AdminLogin</servlet-class>
     </servlet>
     <servlet>
         <servlet-name>adminDangki</servlet-name>
@@ -148,7 +145,7 @@
         <servlet-name>nhanvienPhong</servlet-name>
         <servlet-class>control.nhanvienPhong</servlet-class>
     </servlet>
- 
+
     <servlet>
         <servlet-name>nhanvienFindphong</servlet-name>
         <servlet-class>control.nhanvienFindphong</servlet-class>
@@ -321,7 +318,7 @@
         <servlet-name>nhanvienDssvPhong</servlet-name>
         <url-pattern>/nhanvienDssvPhong</url-pattern>
     </servlet-mapping>
-  
+
     <session-config>
         <session-timeout>
             30
@@ -330,5 +327,5 @@
     <welcome-file-list>
         <welcome-file>phanquyen.jsp</welcome-file>
     </welcome-file-list>
-    
+
 </web-app>
